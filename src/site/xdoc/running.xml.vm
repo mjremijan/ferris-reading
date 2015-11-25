@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://maven.apache.org/XDOC/2.0"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://maven.apache.org/XDOC/2.0 http://maven.apache.org/xsd/xdoc-2.0.xsd">
+
+    <properties>
+        <title>Ferris Reading</title>
+        <author email="mjremijan@yahoo.com">Michael Remijan</author>
+    </properties>
+
+    <body>
+        <section name="Running">
+            <p>
+                <b>Windows</b>
+            </p>
+            <p>
+                Open a DOS prompt to the <code>[READING_HOME]/bin/</code> directory
+            </p>
+            <p>
+                Execute <code>start_reading.bat</code>
+            </p>
+            <p>
+                The application will then prompt you to enter the fully-qualified
+                location of the PDF document on your file system, how many
+                days you want to complete its reading, and some additional 
+                information as shown below.
+            </p>
+            <p>
+                <img src="images/prompt.jpg" />
+            </p>
+            <p>
+                Happy Reading!
+            </p>
+        </section>
+    </body>
+</document>

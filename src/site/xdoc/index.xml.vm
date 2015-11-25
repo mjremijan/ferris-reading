@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://maven.apache.org/XDOC/2.0"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://maven.apache.org/XDOC/2.0 http://maven.apache.org/xsd/xdoc-2.0.xsd">
+
+    <properties>
+        <title>Ferris Reading</title>
+        <author email="mjremijan@yahoo.com">Michael Remijan</author>
+    </properties>
+
+    <!-- Optional HEAD element, which is copied as is into the XHTML <head> element
+<head>
+     <meta ... />
+</head>
+    -->
+
+    <body>
+        <section name="">
+            <div id="twStart">
+                <h2>Start Using Reading</h2>
+                <span class="nav-header">Split PDF into a reading schedule</span>
+                <a href="${project.scm.url}/releases/download/${project.build.finalName}/${project.build.finalName}-bin.zip">
+                    <img src="images/linux-icon.png" />Download for Windows
+                </a>
+				&nbsp; &nbsp; &nbsp; &nbsp;
+                <a href="${project.scm.url}">
+                    <img src="images/octocat-icon.png" />Visit on GitHub
+                </a>
+            </div>
+        </section>
+		
+        <section name="About">
+            <p>
+                The purpose of Reading is to take a long PDF document, and split
+                it up into a user-specified number of days you think is managable
+                to finish reading it.
+            </p>
+            <p> 
+                For example, suppose your PDF document
+                is 100 pages long and you want to finish reading it in 20 days.
+                To do that, you need to read 100/20 = 5 pages per day. Reading 
+                will take the 100 page PDF and split it into 20 documents with
+                each of the documents containing 5 pages.  Then all you need 
+                to do is read a single 5 page PDF every day and before you know
+                it you'll have the entire document read.  
+            </p>
+            <p>    
+                After you have your
+                daily reading PDFs, it's best then to use Ferris Attachment which
+                you can use to email yourself one of the daily PDFs every day. 
+            </p>
+        </section>
+    </body>
+</document>

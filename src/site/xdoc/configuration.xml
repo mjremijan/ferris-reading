@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://maven.apache.org/XDOC/2.0"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://maven.apache.org/XDOC/2.0 http://maven.apache.org/xsd/xdoc-2.0.xsd">
+
+    <properties>
+        <title>Ferris Reading</title>
+        <author email="mjremijan@yahoo.com">Michael Remijan</author>
+    </properties>
+
+    <body>
+        <section name="Configuration">
+            <p>
+                Make sure you have Java 7+ installed on your computer. That's it!
+            </p>
+            <p>
+                Configuration complete! Next is <a href="running.html" alt="running">running</a>.
+            </p>
+        </section>	     
+        
+    </body>
+</document>

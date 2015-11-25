@@ -4,7 +4,7 @@
     <groupId>org.ferris</groupId>
     
     <artifactId>ferris-reading</artifactId>
-    <version>1.0.0.1-SNAPSHOT</version>
+    <version>1.0.0.1</version>
     <packaging>jar</packaging>
     
     <organization>

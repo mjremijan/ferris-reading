@@ -20,7 +20,7 @@
                 <h2>Start Using Reading</h2>
                 <span class="nav-header">Split PDF into a reading schedule</span>
                 <a href="${project.scm.url}/releases/download/${project.build.finalName}/${project.build.finalName}-bin.zip">
-                    <img src="images/linux-icon.png" />Download for Windows
+                    <img src="images/windows-icon.png" />Download for Windows
                 </a>
 				&nbsp; &nbsp; &nbsp; &nbsp;
                 <a href="${project.scm.url}">
